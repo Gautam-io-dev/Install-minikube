@@ -35,7 +35,7 @@ In cloud computing and container management, orchestration helps to:
 4. **Ensure Reliability**: Monitors systems and automatically handles failures, like restarting crashed services or distributing load.
 5. **Manage Dependencies**: Coordinates interactions between different services and components to ensure they work together smoothly.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Install-minikube/blob/623ec3cd3cf5477a3f4c21529cad51ea850ba096/Image%202.jpeg)
 
 Overall, orchestration makes it easier to manage complex, distributed systems, improving efficiency and reliability.
 
