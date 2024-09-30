@@ -6,7 +6,7 @@ Minikube is a tool that allows you to run Kubernetes clusters locally. It’s pa
 full cluster on remote servers.Minikube creates a single-node Kubernetes cluster in a virtual machine or on your local machine, enabling you to experiment with Kubernetes features and deploy applications easily. 
 It supports various virtualization drivers, including VirtualBox, VMware, and Docker, making it flexible for different development setups.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Install-minikube/blob/8a554a3bcdf3e498cd3ae392c802787dd5318acc/Image.jpeg)
 
 
 **kubernetes(k8s)**:
@@ -18,6 +18,8 @@ Kubernetes is an open-source container orchestration platform designed to automa
 3. **Self-Healing**: Automatically restarts or replaces containers that fail.
 4. **Service Discovery**: Allows containers to communicate with each other and find services dynamically.
 5. **Rolling Updates**: Facilitates seamless updates to applications without downtime.
+
+![image alt](
 
 Kubernetes is widely used in modern cloud-native development, making it easier to manage complex applications and microservices architectures.
 
