@@ -19,7 +19,7 @@ Kubernetes is an open-source container orchestration platform designed to automa
 4. **Service Discovery**: Allows containers to communicate with each other and find services dynamically.
 5. **Rolling Updates**: Facilitates seamless updates to applications without downtime.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Install-minikube/blob/178bbd7f4f0c687d451ec64a308007c979da1467/Image%201.jpeg)
 
 Kubernetes is widely used in modern cloud-native development, making it easier to manage complex applications and microservices architectures.
 
@@ -34,6 +34,8 @@ In cloud computing and container management, orchestration helps to:
 3. **Scale Applications**: Automatically adjusts the number of running instances based on demand.
 4. **Ensure Reliability**: Monitors systems and automatically handles failures, like restarting crashed services or distributing load.
 5. **Manage Dependencies**: Coordinates interactions between different services and components to ensure they work together smoothly.
+
+![image alt](
 
 Overall, orchestration makes it easier to manage complex, distributed systems, improving efficiency and reliability.
 
